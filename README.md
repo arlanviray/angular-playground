@@ -1,1 +1,1 @@
-# angular-learning
+# angular-playground
